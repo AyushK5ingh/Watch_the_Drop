@@ -1,0 +1,40 @@
+{
+  "name": "watchthedrop",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.19",
+    "@upstash/ratelimit": "^1.1.3",
+    "@upstash/redis": "^1.31.2",
+    "axios": "^1.10.0",
+    "cheerio": "^1.0.0-rc.12",
+    "framer-motion": "^11.2.4",
+    "mongoose": "^8.3.2",
+    "next": "14.2.3",
+    "nodemailer": "^6.9.16",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-responsive": "^10.0.0",
+    "react-responsive-carousel": "^3.2.23",
+    "serpapi": "^2.1.0",
+    "sonner": "^1.4.41",
+    "tsx": "^4.20.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/nodemailer": "^6.4.16",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
