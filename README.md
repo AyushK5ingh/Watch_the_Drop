@@ -1,6 +1,6 @@
 # WatchTheDrop v2 🚀
 
-**WatchTheDrop** is a cutting-edge full-stack price tracking application built with modern web technologies. Originally developed during a 24-hour hackathon at IIT Jodhpur, this enhanced version provides comprehensive price monitoring, intelligent predictions, and seamless user experience across all devices. The platform specializes in Amazon price tracking with advanced bot detection avoidance and real-time notifications.
+**WatchTheDrop** is a cutting-edge full-stack price tracking application built with modern web technologies. Originally left out, this enhanced version provides comprehensive price monitoring, intelligent predictions, and seamless user experience across all devices. The platform specializes in Amazon price tracking with advanced bot detection avoidance and real-time notifications.
 
 ## ✨ Key Features
 
@@ -116,7 +116,7 @@ SERPAPI_KEY=your_serpapi_key
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/krishkumar84/WatchTheDrop-v2.git
+   git clone https://github.com/ayushk5ingh/WatchTheDrop-v2.git
    cd WatchTheDrop-v2
    ```
 
@@ -256,9 +256,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙋‍♂️ Support & Contact
 
-- **Developer**: [Krish](https://github.com/krishkumar84)
-- **Project Repository**: [WatchTheDrop-v2](https://github.com/krishkumar84/WatchTheDrop-v2)
-- **Issues**: [Report bugs or request features](https://github.com/krishkumar84/WatchTheDrop-v2/issues)
+- **Developer**: [Krish](https://github.com/ayushk5ingh)
+- **Project Repository**: [WatchTheDrop-v2](https://github.com/ayushk5ingh/WatchTheDrop-v2)
+- **Issues**: [Report bugs or request features](https://github.com/ayushk5ingh/WatchTheDrop-v2/issues)
 
 ## 🏆 Acknowledgments
 
@@ -270,4 +270,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Krish](https://github.com/krishkumar84) | Star ⭐ this repo if you found it helpful!
+Made with ❤️ by [Krish](https://github.com/ayushk5ingh) | Star ⭐ this repo if you found it helpful!
