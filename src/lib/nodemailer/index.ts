@@ -96,7 +96,7 @@ const transporter = nodemailer.createTransport({
   service: 'gmail',
   port: 2525,
   auth: {
-    user: 'krish221200867@gmail.com',
+    user: process.env.EMAIL_USER,
     pass: process.env.EMAIL_PASSWORD,
   },
   maxConnections: 1
@@ -114,7 +114,7 @@ export const sendEmail = async (emailContent: EmailContent, sendTo: string[]) =>
   }
   
   const mailOptions = {
-    from: 'krish221200867@gmail.com',
+    from: process.env.EMAIL_USER,
     to: sendTo,
     html: emailContent.body,
     subject: emailContent.subject,
