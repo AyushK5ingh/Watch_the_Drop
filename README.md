@@ -27,7 +27,7 @@
 
 ### 🛡️ Advanced Security & Performance
 
-- **Rate Limiting**: Redis-powered request throttling to prevent abuse
+- **Rate Limitings**: Redis-powered request throttling to prevent abuse
 - **Cron Jobs**: Automated price updates using Next.js API routes
 - **Error Handling**: Comprehensive error management with user-friendly messages
 - **Platform Detection**: Smart URL analysis for supported platforms
@@ -116,8 +116,8 @@ SERPAPI_KEY=your_serpapi_key
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/ayushk5ingh/WatchTheDrop-v2.git
-   cd WatchTheDrop-v2
+   git clone https://github.com/AyushK5ingh/Watch_the_Drop.git
+   cd Watch_the_Drop
    ```
 
 2. **Install dependencies**:
@@ -161,7 +161,7 @@ SERPAPI_KEY=your_serpapi_key
 ## 🏗️ Project Structure
 
 ```
-WatchTheDrop-v2/
+Watch_the_Drop/
 ├── src/
 │   ├── app/                    # Next.js App Router
 │   │   ├── components/         # Reusable UI components
@@ -256,9 +256,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙋‍♂️ Support & Contact
 
-- **Developer**: [Krish](https://github.com/ayushk5ingh)
-- **Project Repository**: [WatchTheDrop-v2](https://github.com/ayushk5ingh/WatchTheDrop-v2)
-- **Issues**: [Report bugs or request features](https://github.com/ayushk5ingh/WatchTheDrop-v2/issues)
+- **Developer**: [Ayush](https://github.com/AyushK5ingh)
+- **Project Repository**: [Watch_the_Drop](https://github.com/AyushK5ingh/Watch_the_Drop)
+- **Issues**: [Report bugs or request features](https://github.com/AyushK5ingh/Watch_the_Drop/issues)
 
 ## 🏆 Acknowledgments
 
@@ -270,4 +270,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Krish](https://github.com/ayushk5ingh) | Star ⭐ this repo if you found it helpful!
+Made with ❤️ by [Ayush](https://github.com/AyushK5ingh) | Star ⭐ this repo if you found it helpful!
