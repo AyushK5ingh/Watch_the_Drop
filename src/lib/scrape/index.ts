@@ -416,7 +416,7 @@ export async function googleShoppingResult(title: string) {
       location: "India",
       hl: "en",
       gl: "in",
-      api_key: process.env.API_KEY,
+      api_key: process.env.SERPAPI_KEY,
       num: 30,
     });
 
@@ -460,7 +460,7 @@ export async function getGoogleresult(title: string) {
     console.log("here");
     console.log(searchTerm);
     const result = await getJson("google", {
-      api_key: process.env["API_KEY"],
+      api_key: process.env["SERPAPI_KEY"],
       q: searchTerm,
     });
     console.log(result.organic_results);
